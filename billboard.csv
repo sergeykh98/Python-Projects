@@ -1,0 +1,201 @@
+,Song,Artist,Billboard Peak,Track_URI,Explicit,Album Name,Release Date,Popularity,Acousticness,Danceability,Energy,Instrumentalness,Liveness,Loudness,Speechiness,Valence,Tempo,Key,Mode,Time Signature,Duration(ms)
+0,Montero (Call Me By Your Name),Lil Nas X,1,spotify:track:67BtfxlNbhBmCDR2L2l8qd,True,MONTERO (Call Me By Your Name),2021-03-31,99,0.297,0.61,0.508,0.0,0.384,-6.682,0.152,0.758,178.818,G♯/A♭,Minor,4,02:17
+1,Peaches,Justin Bieber Featuring Daniel Caesar & Giveon,1,spotify:track:4iJyoBOLtHqaGxP12qzhQI,True,Justice,2021-03-19,100,0.321,0.677,0.696,0.0,0.42,-6.181,0.119,0.464,90.03,C,Major,4,03:18
+2,Levitating,Dua Lipa Featuring DaBaby,3,spotify:track:463CkQjx2Zk1yXoBuierM9,False,Levitating (feat. DaBaby),2020-10-01,91,0.00883,0.702,0.825,0.0,0.0674,-3.787,0.0601,0.915,102.977,F♯/G♭,Minor,4,03:23
+3,Save Your Tears,The Weeknd,1,spotify:track:37BZB0z9T8Xu7U3e65qxFy,False,Save Your Tears (Remix),2021-04-23,94,0.0215,0.65,0.825,2.44e-05,0.0936,-4.645,0.0325,0.593,118.091,C,Major,4,03:11
+4,Kiss Me More,Doja Cat Featuring SZA,5,spotify:track:748mdHapucXQri7IAO8yFK,True,Kiss Me More (feat. SZA),2021-04-09,98,0.235,0.762,0.701,0.000158,0.123,-3.541,0.0286,0.742,110.968,G♯/A♭,Major,4,03:28
+5,Astronaut In The Ocean,Masked Wolf,3,spotify:track:3Ofmpyhv5UAQ70mENzB277,False,Astronaut In The Ocean,2021-01-06,97,0.175,0.778,0.695,0.0,0.15,-6.865,0.0913,0.472,149.996,E,Minor,4,02:12
+6,Leave The Door Open,Silk Sonic (Bruno Mars & Anderson .Paak),2,spotify:track:0rt8ml6HaKvzEX9UTaqGRw,False,"Leave The Door Open (Originally Performed by Bruno Mars, Anderson Paak and Silk Sonic) [Karaoke]",2021-03-12,15,0.122,0.547,0.497,0.389,0.149,-11.097,0.0284,0.464,148.103,F,Major,4,04:04
+7,i n t e r l u d e,J. Cole,8,spotify:track:08LwMWf5Tcfsd752EPzFV0,True,The Off-Season,2021-05-14,81,0.0617,0.77,0.574,0.0,0.104,-5.525,0.106,0.104,98.962,C♯/D♭,Major,3,02:13
+8,Rapstar,Polo G,3,spotify:track:43PGPuHIlVOc04jrZVh9L6,True,RAPSTAR,2021-04-09,96,0.41,0.789,0.536,0.0,0.129,-6.862,0.242,0.437,81.039,F♯/G♭,Major,4,02:45
+9,Your Power,Billie Eilish,6,spotify:track:5qNh5WtzMbfpSj2jLlBkoD,False,Your Power,2021-04-29,93,0.937,0.634,0.285,0.000359,0.232,-14.007,0.0807,0.203,129.65,A,Minor,4,04:05
+10,Body,"Tion Wayne X Russ Millions Featuring ArrDee, E1 (3x3), ZT (3x3), Bugzy Malone, Buni, Fivio Foreign & Darkoo",11,spotify:track:0A1hoCfMLkiAgvhWkkucJa,True,Good News,2020-11-20,82,0.0166,0.914,0.732,0.0,0.107,-6.1,0.241,0.469,94.066,G♯/A♭,Minor,4,02:51
+11,Without You,The Kid LAROI,10,spotify:track:27OeeYzk6klgBh83TSvGMA,True,F*CK LOVE (SAVAGE),2020-11-06,91,0.213,0.662,0.413,0.0,0.134,-7.357,0.0299,0.467,93.005,C,Major,4,02:41
+12,Miss The Rage,Trippie Redd & Playboi Carti,13,spotify:track:4atjt0ziMjfsiT17R8KRnX,False,Miss The Rage (Originally Performed by Trippie Redd and Playboi Carti) [Instrumental],2021-05-12,6,0.0504,0.236,0.53,0.545,0.257,-12.979,0.0584,0.342,154.53,G♯/A♭,Major,4,03:58
+13,Blinding Lights,The Weeknd,2,spotify:track:0VjIjW4GlUZAMYd2vXMi3b,False,After Hours,2020-03-20,94,0.00146,0.514,0.73,9.54e-05,0.0897,-5.934,0.0598,0.334,171.005,C♯/D♭,Major,4,03:20
+14,Deja Vu,Olivia Rodrigo,8,spotify:track:61KpQadow081I2AsbeLcsb,True,deja vu,2021-04-01,95,0.593,0.439,0.61,1.07e-05,0.341,-7.236,0.116,0.172,181.088,A,Major,4,03:35
+15,Pareja del Ano,Sebastian Yatra X Myke Towers,16,spotify:track:2rCbl9naJYhaxjLsfx88uM,False,Pareja Del Año,2021-04-16,93,0.163,0.715,0.622,0.0,0.0948,-5.102,0.046,0.808,80.015,E,Minor,4,03:15
+16,Drivers License,Olivia Rodrigo,1,spotify:track:7lPN2DXiMsVn7XUKtOW1CS,True,drivers license,2021-01-08,95,0.721,0.585,0.436,1.31e-05,0.105,-8.761,0.0601,0.132,143.874,B,Major,4,04:02
+17,The Business,Tiesto,12,spotify:track:6f3Slt0GbA2bPZlz0aIFXN,False,The Business,2020-09-16,94,0.414,0.798,0.62,0.0192,0.112,-7.079,0.232,0.235,120.031,G♯/A♭,Minor,4,02:44
+18,Heartbreak Anniversary,Giveon,10,spotify:track:3FAJ6O0NOHQV8Mc5Ri6ENp,False,TAKE TIME,2020-03-27,93,0.524,0.449,0.465,1.02e-06,0.303,-8.964,0.0791,0.543,89.087,C,Major,3,03:18
+19,Fiel,"Los Legendarios, Wisin & Jhay Cortez",15,spotify:track:7tZHEwEYKcI3kJLi9RQJL3,False,"The Impossible Game Soundtrack, Vol. 61",2021-05-19,0,0.735,0.685,0.43,0.941,0.124,-7.477,0.0255,0.3,97.976,F♯/G♭,Minor,4,04:16
+20,Dynamite,BTS,1,spotify:track:4saklk6nie3yiGePpBwUoc,False,BE,2020-11-20,89,0.0112,0.746,0.765,0.0,0.0936,-4.41,0.0993,0.737,114.044,F♯/G♭,Minor,4,03:19
+21,Botella Tras Botella,Gera MX + Christian Nodal,9,spotify:track:2MnLkFqY9Rpg9s3Zv6ZJdK,False,Botella Tras Botella,2021-04-23,92,0.656,0.727,0.546,0.0,0.122,-4.572,0.0437,0.69,106.891,C,Major,4,03:17
+22,Friday,Riton X Nightcrawlers Featuring Mufasa & Hypeman,18,spotify:track:4cG7HUWYHBV6R6tHn1gxrl,False,Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit],2021-01-15,94,0.0076,0.824,0.862,0.000132,0.303,-3.424,0.126,0.801,122.98,D,Major,4,02:49
+23,Higher Power,Coldplay,24,spotify:track:0939D7aT18uBDS2MTjWzct,False,Higher Power,2021-05-07,85,0.00711,0.507,0.828,2.44e-05,0.261,-6.023,0.0449,0.489,178.032,B,Major,4,03:31
+24,Dakiti,Bad Bunny & Jhay Cortez,1,spotify:track:6rZk29Yz8ObEwtJOIaACt5,False,"By Request, Vol. 108",2020-11-25,8,0.00462,0.373,0.186,0.403,0.154,-6.421,0.0352,0.211,109.201,E,Minor,4,03:13
+25,AM,Nio Garcia X Flow La Movie,24,spotify:track:2dNhNlpZAtV4lwAFW45LIv,True,AM,2021-01-28,93,0.399,0.83,0.517,8.95e-05,0.0916,-6.416,0.333,0.616,171.959,F♯/G♭,Minor,4,03:02
+26,Goosebumps,Travis Scott & HVME,15,spotify:track:6gBFPUFcJLzWGx4lenP6h2,True,Birds In The Trap Sing McKnight,2016-09-16,87,0.0847,0.841,0.728,0.0,0.149,-3.37,0.0484,0.43,130.049,G,Major,4,04:03
+27,Up,Cardi B,4,spotify:track:1XXimziG1uhM0eDNCZCrUl,True,Up,2021-02-05,90,0.0012,0.868,0.795,0.0193,0.0461,-6.044,0.269,0.819,166.0,N/A,Major,4,02:36
+28,Mood,24kGoldn Featuring iann dior,2,spotify:track:4jPy3l0RUwlUI9T5XHBW2m,True,El Dorado,2021-03-26,91,0.174,0.701,0.716,0.0,0.324,-3.671,0.0361,0.732,91.007,G,Minor,4,02:20
+29,Runaway,AURORA,22,spotify:track:0TCmhnbMpw5zwPsTvlXTJi,False,All My Demons Greeting Me as a Friend (Deluxe),2014,84,0.634,0.521,0.277,7.07e-05,0.103,-10.34,0.0356,0.13,115.01,N/A,Major,4,04:08
+30,Beautiful Mistakes,Maroon 5 Featuring Megan Thee Stallion,26,spotify:track:6fRxMU4LWwyaSSowV441IU,False,Beautiful Mistakes (feat. Megan Thee Stallion),2021-03-03,91,0.0377,0.713,0.676,0.0,0.154,-5.483,0.027,0.721,99.048,B,Major,4,03:47
+31,Telepatia,Kali Uchis,10,spotify:track:6tDDoYIxWvMLTdKpjFkc1B,False,Sin Miedo (del Amor y Otros Demonios) ∞,2020-12-04,94,0.112,0.653,0.524,0.0,0.203,-9.016,0.0502,0.553,83.97,N/A,Minor,4,02:40
+32,Wellerman,Nathan Evans,16,spotify:track:54OBgO0Xwu20Jak9TMXbR7,False,Wellerman (Sea Shanty),2021-01-21,83,0.614,0.675,0.359,0.0,0.137,-5.157,0.108,0.792,191.903,D♯/E♭,Major,4,02:35
+33,Heat Waves,Glass Animals,31,spotify:track:3USxtqRwSYz57Ewm6wWRMp,False,Dreamland,2020-08-07,84,0.44,0.761,0.525,6.7e-06,0.0921,-6.9,0.0944,0.531,80.87,N/A,Major,4,03:58
+34,Hold On,Justin Bieber,4,spotify:track:4u4NyuceXP7Uzh7XFJKCr1,False,Hold On,2021-03-05,89,0.0106,0.658,0.634,0.0,0.132,-5.797,0.0413,0.29,139.98,C♯/D♭,Minor,4,02:50
+35,Calling My Phone,Lil Tjay Featuring 6LACK,2,spotify:track:3J8EOeKLTLXORtWPpOU5bE,True,Destined 2 Win,2021-04-02,90,0.451,0.907,0.393,1.35e-06,0.135,-7.636,0.0539,0.202,104.949,E,Minor,4,03:25
+36,Streets,Doja Cat,8,spotify:track:60ynsPSSKe6O3sfwRnIBRf,True,Hot Pink,2019-11-07,92,0.208,0.749,0.463,0.0371,0.337,-8.433,0.0828,0.19,90.028,N/A,Major,4,03:46
+37,Every Chance I Get,DJ Khaled Featuring Lil Baby & Lil Durk,27,spotify:track:1EJIcDYXwSqipW5dFe4uJz,True,KHALED KHALED,2021-04-30,82,0.000866,0.477,0.727,0.0,0.108,-4.053,0.286,0.227,150.062,D,Major,4,03:56
+38,Dance Monkey,Tones And I,16,spotify:track:2XU0oxnq2qxCpomAAuJY8K,False,Dance Monkey (Stripped Back) / Dance Monkey,2019-10-17,86,0.692,0.824,0.588,0.000104,0.149,-6.4,0.0924,0.513,98.027,F♯/G♭,Minor,4,03:29
+39,El Makinon,Karol G & Mariah Angeliq,39,spotify:track:2FSGUA0gFgGeQdprjtGM2M,False,KG0516,2021-03-26,90,0.256,0.635,0.706,0.0,0.108,-3.224,0.125,0.443,88.863,F,Minor,4,03:29
+40,Don't Start Now,Dua Lipa,30,spotify:track:6WrI0LAC5M1Rw2MnX2ZvEg,False,Don't Start Now,2019-10-31,85,0.0125,0.794,0.793,0.0,0.0952,-4.521,0.0842,0.677,123.941,N/A,Minor,4,03:03
+41,Watermelon Sugar,Harry Styles,9,spotify:track:6UelLqGlWMcVH1E5c4H7lY,False,Fine Line,2019-12-13,90,0.122,0.548,0.816,0.0,0.335,-4.209,0.0465,0.557,95.39,C,Major,4,02:54
+42,We're Good,Dua Lipa,21,spotify:track:1diS6nkxMQc3wwC4G1j0bh,False,Future Nostalgia (The Moonlight Edition),2021-02-11,89,0.0319,0.722,0.588,0.0,0.183,-5.932,0.0544,0.59,134.01,F♯/G♭,Major,4,02:45
+43,Best Friend,Saweetie Featuring Doja Cat,31,spotify:track:2etHQJxIbV0soyPhelVs9Y,True,Best Friend (feat. Doja Cat),2021-01-07,89,0.00302,0.84,0.766,3.61e-06,0.0684,-4.12,0.136,0.402,94.018,E,Major,4,02:35
+44,Wants And Needs,Drake Featuring Lil Baby,2,spotify:track:65OVbaJR5O1RmwOQx0875b,True,Scary Hours 2,2021-03-05,89,0.0618,0.578,0.449,2.17e-06,0.119,-6.349,0.286,0.1,136.006,C♯/D♭,Major,4,03:12
+45,Someone You Loved,Lewis Capaldi,24,spotify:track:7qEHsqek33rTcFNT9PFqLf,False,Divinely Uninspired To A Hellish Extent,2019-05-17,89,0.751,0.501,0.405,0.0,0.105,-5.679,0.0319,0.446,109.891,C♯/D♭,Major,4,03:02
+46,Bandido,Myke Towers & Juhn,11,spotify:track:1xK1Gg9SxG8fy2Ya373oqb,False,Bandido,2020-12-10,92,0.122,0.713,0.617,0.0,0.0962,-4.637,0.0887,0.682,168.021,G♯/A♭,Major,4,03:52
+47,Arcade,Duncan Laurence,36,spotify:track:1Xi84slp6FryDSCbzq4UCD,False,Arcade,2019-03-07,87,0.818,0.45,0.329,0.00109,0.135,-12.603,0.0441,0.266,71.884,A,Minor,3,03:03
+48,Cover Me In Sunshine,P!nk + Willow Sage Hart,49,spotify:track:6Tio0ZoDeSQnI7EBAqWer2,False,Cover Me In Sunshine,2021-02-12,88,0.0599,0.476,0.594,0.0,0.0785,-6.879,0.135,0.314,159.702,F,Major,4,02:21
+49,Your Love (9PM),ATB x Topic x A7S,37,spotify:track:5YaskwnGDZFDRipaqzbwQx,False,Your Love (9PM),2021-01-15,91,0.194,0.669,0.784,6.28e-06,0.115,-5.603,0.112,0.517,125.993,G,Major,4,02:30
+50,Beat Box,SpotemGottem Featuring Pooh Shiesty Or DaBaby,38,spotify:track:6toQdWWc4noiOk3Eo5mVDS,True,Beat Box 3 (feat. DaBaby),2021-02-26,82,0.0765,0.853,0.426,0.0,0.104,-6.812,0.374,0.201,160.051,C♯/D♭,Major,4,03:20
+51,Bed,Joel Corry X RAYE X David Guetta,48,spotify:track:0siYMEsGrzzzlWLXK5zJfS,False,BED,2021-02-26,89,0.0142,0.671,0.782,0.00221,0.333,-4.593,0.0341,0.618,123.989,F♯/G♭,Major,4,02:58
+52,Perfect,Ed Sheeran,30,spotify:track:0tgVpDi06FyKpA1z0VMD4v,False,÷ (Deluxe),2017-03-03,86,0.163,0.599,0.448,0.0,0.106,-6.312,0.0232,0.168,95.05,G♯/A♭,Major,3,04:23
+53,La Noche de Anoche,Bad Bunny & Rosalia,7,spotify:track:4N0Ulny1B8wVcpH3VdIEsA,False,"By Request, Vol. 112",2020-12-22,8,0.0708,0.575,0.561,0.839,0.209,-3.851,0.0379,0.26,164.571,G,Major,4,03:18
+54,Roses,SAINt JHN,14,spotify:track:0zLCBJZSiELJf02ucPP9wb,True,While The World Was Burning,2020-11-20,74,0.0143,0.769,0.719,0.00777,0.359,-5.472,0.0474,0.863,121.955,G♯/A♭,Major,4,02:56
+55,Solid,Young Thug & Gunna Featuring Drake,11,spotify:track:6rTInqW3YECMkQsBEHw4sd,True,Slime Language 2,2021-04-16,86,0.0392,0.887,0.485,0.0,0.141,-9.358,0.2,0.328,125.987,N/A,Minor,4,03:35
+56,Talking To The Moon,Bruno Mars,57,spotify:track:161DnLWsx1i3u1JT05lzqU,False,Doo-Wops & Hooligans,2010-10-05,86,0.512,0.523,0.606,0.0,0.106,-4.754,0.0301,0.065,145.837,C♯/D♭,Minor,4,03:37
+57,Never Left,Lil Tecca,58,spotify:track:21UkXrc9kD48rNpTMI2ecz,True,Never Left,2021-05-06,82,0.0224,0.807,0.659,0.0,0.309,-6.92,0.332,0.438,82.465,N/A,Major,4,02:48
+58,34+35,Ariana Grande,2,spotify:track:6Im9k8u9iIzKMrmV7BWtlF,True,Positions,2020-10-30,88,0.237,0.83,0.585,0.0,0.248,-6.476,0.094,0.485,109.978,C,Major,4,02:53
+59,Head & Heart,Joel Corry X MNEK,17,spotify:track:1eQugBnCVhTwIo0xQLCTdC,False,Instrumental Playback Hits - Karaoke Remix Playlist 2020.2,2020-12-11,4,0.0182,0.642,0.719,0.624,0.35,-9.141,0.0574,0.627,123.005,G♯/A♭,Major,4,02:43
+60,Good Days,SZA,7,spotify:track:3YJJjQPAbDT7mGpX3WtQ9A,True,Good Days,2020-12-25,89,0.499,0.436,0.655,8.1e-06,0.688,-8.37,0.0583,0.412,121.002,C♯/D♭,Minor,4,04:39
+61,My Head And My Heart,Ava Max,32,spotify:track:3ONp88fOe4oYYgdmeg0tjQ,False,My Head and My Heart (Originally Performed by Ava Max) [Instrumental],2021-03-09,3,0.00233,0.627,0.657,0.837,0.0748,-9.909,0.0297,0.441,116.4,A,Minor,4,02:53
+62,In The Morning,iTZY,34,spotify:track:2QdH0rKlV3d9Y6lWzcnlBH,False,GUESS WHO,2021-04-30,84,0.0825,0.847,0.814,0.000507,0.0948,-4.668,0.152,0.711,140.057,N/A,Minor,4,02:52
+63,911,Sech,48,spotify:track:2TksvaRivgAEj780DgRB73,True,911,2021-02-05,89,0.076,0.795,0.655,1.76e-06,0.296,-3.815,0.0422,0.744,93.029,G,Major,4,03:35
+64,All I Know So Far,P!nk,65,spotify:track:4LmN3eU1R1vVEdKuDELpGk,True,All I Know So Far,2021-05-07,78,0.0586,0.578,0.639,0.0,0.0944,-5.749,0.0374,0.296,108.045,E,Major,4,04:37
+65,Follow You,Imagine Dragons,66,spotify:track:7FdUvDkaE24o3FPIWTvzv2,False,Follow You / Cutthroat,2021-03-12,87,0.00209,0.542,0.732,7.92e-05,0.496,-5.956,0.0521,0.489,124.912,A,Major,4,02:55
+66,Rockstar,DaBaby Featuring Roddy Ricch,8,spotify:track:7ytR5pFWmSjzHJIeQkgog4,True,BLAME IT ON BABY,2020-04-17,89,0.247,0.746,0.69,0.0,0.101,-7.956,0.164,0.497,89.977,N/A,Major,4,03:01
+67,Sunflower (Spider-Man: Into The Spider-Verse),Post Malone & Swae Lee,47,spotify:track:0wt9RjddODlWDetpuaXfRK,False,Spider-Man: Into the Spider-Verse (Deluxe Edition / Soundtrack From & Inspired By The Motion Picture),2019-02-22,60,0.274,0.604,0.754,3.53e-06,0.0947,-4.243,0.119,0.28,179.836,D,Major,4,03:30
+68,Shape Of You,Ed Sheeran,68,spotify:track:7qiZfU4dY1lWllzX7mPBI3,False,÷ (Deluxe),2017-03-03,86,0.581,0.825,0.652,0.0,0.0931,-3.183,0.0802,0.931,95.977,C♯/D♭,Minor,4,03:53
+69,"Volta Bebe, Volta Nenem",DJ Guuga E DJ Ivis,65,spotify:track:4wQUopWk9Ed7Ng5qpKN5qd,False,"Volta Bebê, Volta Neném",2021-03-27,86,0.288,0.583,0.918,0.0,0.0701,-3.612,0.0518,0.836,164.081,F♯/G♭,Major,4,02:52
+70,Wockesha,Moneybagg Yo,71,spotify:track:0nqhKXDjsyBMvbeWmgijD0,True,A Gangsta’s Pain,2021-04-23,74,0.129,0.582,0.537,0.0,0.0749,-9.229,0.619,0.771,82.103,C,Major,4,03:00
+71,Bad Guy,Billie Eilish,54,spotify:track:2Fxmhks0bxGSBdJ92vM42m,False,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019-03-29,87,0.328,0.701,0.425,0.13,0.1,-10.965,0.375,0.562,135.128,G,Major,4,03:14
+72,Positions,Ariana Grande,1,spotify:track:35mvY5S1H3J2QZyna3TFe0,True,Positions,2020-10-30,89,0.468,0.737,0.802,0.0,0.0931,-4.771,0.0878,0.682,144.015,C,Major,4,02:52
+73,Hawai,Maluma,3,spotify:track:0GzuHFG4Ql6DoyxFRnIk3F,False,Hawái (Remix),2020-11-05,80,0.105,0.766,0.788,5.81e-06,0.142,-3.128,0.312,0.609,179.984,F♯/G♭,Minor,4,03:20
+74,You Broke Me First.,Tate McRae,16,spotify:track:45bE4HXI0AwGZXfZtMp8JR,False,you broke me first,2020-04-17,89,0.785,0.667,0.373,0.0,0.0906,-9.389,0.05,0.0823,124.148,E,Major,4,02:49
+75,Savage Love (Laxed - Siren Beat),Jawsh 685 x Jason Derulo,1,spotify:track:1xQ6trAsedVPCdbtDAmk0c,True,Savage Love (Laxed - Siren Beat),2020-06-11,85,0.234,0.767,0.481,0.0,0.269,-8.52,0.0803,0.761,150.076,C,Minor,4,02:51
+76,Shallow,Lady Gaga & Bradley Cooper,59,spotify:track:4cdfzw5XZc85qVz6GZMC9O,False,Trend and Viral Vol 9,2020-04-24,26,0.621,0.605,0.217,3.75e-06,0.0924,-13.008,0.0314,0.169,95.884,G,Major,4,03:38
+77,Dreams,Fleetwood Mac,10,spotify:track:0ofHAoxe9vBkTCp2UQIavz,False,Rumours (Super Deluxe),1977-02-04,85,0.0644,0.828,0.492,0.00428,0.128,-9.744,0.0276,0.789,120.151,C,Major,4,04:17
+78,Back In Blood,Pooh Shiesty Featuring Lil Durk,29,spotify:track:7JuHVG3qQKQKxC4doneXVW,True,Back In Blood (feat. Lil Durk),2020-11-06,82,0.151,0.759,0.538,0.0,0.126,-8.256,0.384,0.831,146.933,G♯/A♭,Minor,4,03:04
+79,I Did It,"DJ Khaled Featuring Post Malone, Megan Thee Stallion, Lil Baby & DaBaby",33,spotify:track:20GrahbI4AzAOWxpYfDKkf,True,KHALED KHALED,2021-04-30,83,0.00196,0.757,0.721,0.0,0.647,-2.906,0.0691,0.364,124.036,E,Minor,4,02:45
+80,On Me,Lil Baby,47,spotify:track:4Iedi94TIaB2GGb1nMB68v,True,On Me,2020-12-04,83,0.00327,0.856,0.564,0.0,0.134,-6.295,0.392,0.483,77.972,F♯/G♭,Minor,4,02:15
+81,Baby Shark,Pinkfong,38,spotify:track:5ygDXis42ncn6kYG14lEVG,False,Pinkfong Animal Songs,2017-07-27,76,0.259,0.829,0.886,0.0,0.0559,-1.746,0.112,0.777,115.056,G♯/A♭,Major,4,01:20
+82,Batom de Cereja,Israel & Rodolffo,57,spotify:track:2MZQAvsA7aZDssppBLRxYp,False,"Aqui e Agora, Vol.1 (Ao Vivo)",2021-01-29,88,0.556,0.606,0.908,0.0,0.19,-6.201,0.0565,0.798,171.966,F♯/G♭,Minor,4,02:20
+83,Believer,Imagine Dragons,70,spotify:track:0pqnGHJpmpxLKifKRmU6WP,False,Evolve,2017-06-23,87,0.0622,0.776,0.78,0.0,0.081,-4.374,0.128,0.666,124.949,B,Minor,4,03:24
+84,Lemonade,Internet Money & Gunna Featuring Don Toliver & NAV,4,spotify:track:02kDW379Yfd5PzW5A6vuGt,True,"Lemonade (feat. Gunna, Don Toliver & NAV)",2020-08-14,85,0.256,0.799,0.66,0.0,0.111,-6.153,0.079,0.471,140.04,C♯/D♭,Minor,4,03:15
+85,Whoopty,CJ,10,spotify:track:5vGLcdRuSbUhD8ScwsGSdA,True,Whoopty,2020-08-20,86,0.2,0.719,0.648,0.0,0.127,-7.6,0.125,0.66,140.201,D♯/E♭,Minor,4,02:03
+86,Forever After All,Luke Combs,4,spotify:track:6IBcOGPsniK3Pso1wHIhew,False,What You See Ain't Always What You Get (Deluxe Edition),2020-10-23,83,0.191,0.487,0.65,0.0,0.0933,-5.195,0.0253,0.456,151.964,C,Major,4,03:52
+87,WAP,Cardi B Featuring Megan Thee Stallion,1,spotify:track:4Oun2ylbjFKMPTiaSbbCih,True,WAP (feat. Megan Thee Stallion),2020-08-07,87,0.0194,0.935,0.454,0.0,0.0824,-7.509,0.375,0.357,133.073,C♯/D♭,Major,4,03:07
+88,Before You Go,Lewis Capaldi,32,spotify:track:2gMXnyrvIjhVBUZwvLZDMP,False,Divinely Uninspired To A Hellish Extent (Extended Edition),2019-11-22,84,0.604,0.459,0.575,0.0,0.0885,-4.858,0.0573,0.183,111.881,D♯/E♭,Major,4,03:35
+89,Circles,Post Malone,49,spotify:track:21jGcNKet2qwijlDFuPiPb,False,Hollywood's Bleeding,2019-09-06,88,0.192,0.695,0.762,0.00244,0.0863,-3.497,0.0395,0.553,120.042,C,Major,4,03:35
+90,For The Night,Pop Smoke Featuring Lil Baby & DaBaby,7,spotify:track:0PvFJmanyNQMseIFrU708S,True,Shoot For The Stars Aim For The Moon,2020-07-03,87,0.114,0.823,0.586,0.0,0.193,-6.606,0.2,0.347,125.971,F♯/G♭,Minor,4,03:10
+91,Lovely,Billie Eilish & Khalid,70,spotify:track:5FmtMSKUyVnT0M7ApbFnyv,False,Lovely (Billie Eilish & Khalid),2021-04-09,14,0.846,0.395,0.243,3.04e-06,0.0839,-8.648,0.0337,0.117,130.728,F,Minor,3,03:18
+92,Let It Go,DJ Khaled Featuring Justin Bieber & 21 Savage,49,spotify:track:1cEhrSF6EylAEqdhUGuNpX,True,KHALED KHALED,2021-04-30,81,0.24,0.877,0.444,0.0,0.169,-7.547,0.172,0.658,129.06,G♯/A♭,Major,4,02:45
+93,Dick,StarBoi3 + Doja Cat,94,spotify:track:4WpyCRMKINKijUrviP1WM4,True,Dick (Originally Performed by Starboi3 and Doja Cat) [Instrumental],2021-05-06,9,0.333,0.686,0.212,0.914,0.116,-14.327,0.0845,0.0848,84.447,C,Minor,5,02:52
+94,Rasputin,Majestic X Boney M.,95,spotify:track:0b18g3G5spr4ZCkz7Y6Q0Q,False,Rasputin,2021-02-26,87,0.00364,0.758,0.913,6.92e-05,0.193,-2.926,0.113,0.658,128.04,F♯/G♭,Minor,4,03:06
+95,Hot Sauce,NCT DREAM,96,spotify:track:6B8MM3PVQtUbZLay7tP7er,False,Hot Sauce - The 1st Album,2021-05-10,77,0.0127,0.769,0.926,0.0,0.285,-1.627,0.0788,0.551,100.034,F♯/G♭,Major,4,03:15
+96,Sweater Weather,The Neighbourhood,62,spotify:track:2QjOHCTQ1Jl3zawyYOpxh6,False,I Love You.,2013-04-19,89,0.0495,0.612,0.807,0.0177,0.101,-2.81,0.0336,0.398,124.053,B,Major,4,04:00
+97,Yoru Ni Kakeru,YOASOBI,16,spotify:track:3ZolvP0M1rqmlbFDhrprbr,False,"Anime Mix, Vol. 1",2021-02-18,16,0.948,0.362,0.397,0.857,0.147,-13.673,0.0367,0.571,129.162,C,Minor,4,04:22
+98,Another Love,Tom Odell,99,spotify:track:7otCGmgp9h4CsR2LhwB6gt,True,Long Way Down,2013-09-17,71,0.695,0.445,0.537,1.6e-05,0.0941,-8.532,0.04,0.131,122.764,E,Minor,4,04:04
+99,What You Know Bout Love,Pop Smoke,11,spotify:track:1tkg4EHVoqnhR6iFEXb60y,True,Shoot For The Stars Aim For The Moon,2020-07-03,87,0.65,0.709,0.548,1.59e-06,0.133,-8.493,0.353,0.543,83.995,B,Major,4,02:40
+100,La Curiosidad,DJ Nelson Presenta Jay Wheeler & Myke Towers,40,spotify:track:4HYDUMY0xSpeBr0AMY9cUz,False,Platonicos,2020-06-12,84,0.269,0.845,0.677,0.000917,0.108,-4.798,0.136,0.68,90.013,N/A,Minor,4,03:39
+101,Anyone,Justin Bieber,3,spotify:track:31qCy5ZaophVA81wtlwLc4,False,Anyone,2021-01-01,86,0.181,0.686,0.538,3.13e-06,0.113,-8.026,0.0345,0.584,115.884,D,Major,4,03:10
+102,Martin & Gina,Polo G,94,spotify:track:1VLtjHwRWOVJiE5Py7JxoQ,True,THE GOAT,2020-05-15,87,0.345,0.832,0.534,0.0,0.165,-7.813,0.253,0.116,93.924,C♯/D♭,Minor,4,02:12
+103,Paradise,Meduza & Dermot Kennedy,30,spotify:track:0Rx0DJI556Ix5gBny6EWmn,True,Soul Searching,2019-08-09,77,0.0828,0.844,0.644,0.0,0.113,-6.273,0.0479,0.591,122.061,N/A,Minor,4,02:49
+104,What's Next,Drake,1,spotify:track:3mDFLytDotXo2p0rvfGbkA,False,Scary Hours 2,2021-03-05,70,0.0125,0.777,0.58,0.0,0.161,-6.928,0.0525,0.0636,129.918,C,Minor,4,02:58
+105,Mienteme,TINI X Maria Becerra,106,spotify:track:0cOa970mzTWAxKtltpkpLc,False,Miénteme,2021-04-29,85,0.161,0.85,0.541,5.01e-06,0.286,-4.522,0.0674,0.916,92.003,D,Major,4,02:45
+106,Ski,Young Thug & Gunna,23,spotify:track:1uZSBNUAVZm4maKgbZsmkk,True,"Ski (Originally Performed by Young Stoner Life, Young Thug and Gunna) [Karaoke]",2021-04-23,7,0.0341,0.798,0.443,0.77,0.0836,-14.353,0.0519,0.724,123.055,G♯/A♭,Minor,4,02:34
+107,Bipolar,"MC Don Juan, MC Davi & MC Pedrinho",108,spotify:track:5a16tk3vGGt4s9L9TRKakm,True,A Gangsta’s Pain,2021-04-23,60,0.0941,0.698,0.478,0.0,0.162,-8.008,0.313,0.339,82.352,C,Minor,4,02:31
+108,Ramen & OJ,Joyner Lucas & Lil Baby,104,spotify:track:7MPkZfOpcnDtRqA80Spszv,False,Ramen and OJ (Originally Performed by Joyner Lucas and Lil Baby) [Instrumental],2021-05-06,6,0.593,0.659,0.257,0.919,0.1,-17.516,0.0554,0.0769,107.068,C♯/D♭,Minor,3,03:39
+109,Memories,Maroon 5,71,spotify:track:2b8fOow8UzyDFAE27YhOZM,False,Memories,2019-09-20,87,0.837,0.764,0.32,0.0,0.0822,-7.209,0.0546,0.575,91.019,N/A,Major,4,03:09
+110,The Good Ones,Gabby Barrett,96,spotify:track:3hLuHKzG1cmlRpq53ZVWd8,False,Goldmine,2020-06-19,79,0.18,0.519,0.552,0.0,0.149,-5.023,0.0259,0.331,89.957,D,Major,4,03:35
+111,Holy,Justin Bieber Featuring Chance The Rapper,3,spotify:track:5u1n1kITHCxxp8twBcZxWy,False,Holy,2020-09-18,84,0.196,0.673,0.704,0.0,0.0898,-8.056,0.36,0.372,86.919,F♯/G♭,Major,4,03:32
+112,Bohemian Rhapsody,Queen,107,spotify:track:7tFiyTwD0nx5a1eklYtX2J,False,A Night At The Opera (Deluxe Remastered Version),1975-11-21,75,0.288,0.392,0.402,0.0,0.243,-9.961,0.0536,0.228,143.883,C,Minor,4,05:54
+113,Therefore I Am,Billie Eilish,2,spotify:track:54bFM56PmE4YLRnqpW6Tha,False,Therefore I Am,2020-11-12,88,0.218,0.889,0.34,0.13,0.055,-7.773,0.0697,0.716,94.009,N/A,Minor,4,02:54
+114,Cry Baby,Official HIGE DANdism,115,spotify:track:3IDF7N86lrcWaJEt9C1gbS,False,Cry Baby,2021-05-07,65,0.0116,0.318,0.902,0.0,0.393,-4.605,0.131,0.437,199.844,C♯/D♭,Major,4,04:00
+115,My Ex's Best Friend,Machine Gun Kelly X blackbear,25,spotify:track:7kDUspsoYfLkWnZR7qwHZl,True,Tickets To My Downfall,2020-09-25,85,0.00473,0.731,0.675,0.0,0.141,-5.134,0.0434,0.298,124.939,F,Minor,4,02:19
+116,Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",17,spotify:track:1jaTQ3nqY3oAAYyCTbIvnM,True,Sweet Action,2020-03-13,81,0.017,0.923,0.604,0.0,0.272,-6.671,0.245,0.826,145.062,N/A,Minor,4,02:19
+117,Time Today,Moneybagg Yo,70,spotify:track:0YrKSfpvflYnLSBd4Jtu6J,True,A Gangsta’s Pain,2021-04-23,77,0.0458,0.912,0.608,0.0,0.248,-7.686,0.397,0.327,136.994,C♯/D♭,Major,4,02:16
+118,Baila Conmigo,Selena Gomez With Rauw Alejandro,22,spotify:track:079Ey5uxL04AKPQgVQwx5h,False,Revelación - EP,2021-03-12,89,0.0215,0.823,0.544,0.00315,0.0966,-7.132,0.0715,0.664,149.903,F,Major,4,03:06
+119,Old Town Road,Lil Nas X Featuring Billy Ray Cyrus,70,spotify:track:2YpeDb67231RjR0MgVLzsG,False,7 EP,2019-06-21,82,0.0533,0.878,0.619,0.0,0.113,-5.56,0.102,0.639,136.041,F♯/G♭,Major,4,02:37
+120,Closer,The Chainsmokers Featuring Halsey,100,spotify:track:7BKLCZ1jbUBVqRi2FVlTVw,False,Closer,2016-07-29,85,0.414,0.748,0.524,0.0,0.111,-5.599,0.0338,0.661,95.01,G♯/A♭,Major,4,04:04
+121,Ride It.,Regard,86,spotify:track:2tnVG71enUj33Ic2nFN6kZ,False,Ride It,2019-07-26,86,0.177,0.88,0.751,6.43e-05,0.106,-4.258,0.0874,0.884,117.948,G,Minor,4,02:37
+122,What You Need,Don Toliver,123,spotify:track:6LcX2hBbXaJcK4AuefE936,True,What You Need,2021-05-04,80,0.059,0.664,0.655,2.4e-05,0.17,-7.327,0.0461,0.13,129.987,B,Minor,4,03:37
+123,Monster,YOASOBI,87,spotify:track:2UREu1Y8CO4jXkbvqAtP7g,False,Awake,2009-08-21,76,0.0431,0.64,0.957,0.0,0.0789,-2.336,0.0741,0.692,134.992,G♯/A♭,Major,4,02:58
+124,Goosebumps,Travis Scott,102,spotify:track:5uEYRdEIh9Bo4fpjDd4Na9,True,Goosebumps (Remix),2021-01-15,91,0.418,0.841,0.593,0.0,0.124,-7.846,0.0379,0.808,124.917,C♯/D♭,Major,4,02:42
+125,Senorita,Shawn Mendes & Camila Cabello,67,spotify:track:7j51JJNPTPc9pLxcrgZdFR,False,Salsa y Tropical Hits,2019-11-15,10,0.429,0.683,0.973,1.82e-05,0.175,-2.752,0.032,0.82,94.983,C,Major,4,04:00
+126,Girl Like Me,Black Eyed Peas X Shakira,39,spotify:track:1zLBsSVxETQOfINOLYvT5m,True,TRANSLATION,2020-11-02,86,0.0206,0.965,0.485,0.0237,0.0655,-8.784,0.191,0.312,124.025,D,Major,4,03:42
+127,Rain On Me,Lady Gaga & Ariana Grande,22,spotify:track:3Wxl7YuE3NtVgwVC0QFnVK,False,Rain on Me (Instrumental Karaoke Version) Originally Performed by Lady Gaga & Ariana Grande,2020-05-26,12,0.00157,0.657,0.897,0.297,0.306,-7.104,0.0318,0.363,122.985,C♯/D♭,Minor,4,03:02
+128,Reloj,Rauw Alejandro & Anuel AA,41,spotify:track:7r9ZhitdQBONTFOiJW5mr8,True,Reloj,2020-10-22,84,0.176,0.823,0.537,3.98e-06,0.123,-2.639,0.209,0.615,175.946,G♯/A♭,Major,4,03:51
+129,Prisoner,Miley Cyrus Featuring Dua Lipa,12,spotify:track:5JqZ3oqF00jkT81foAFvqg,False,Prisoner (feat. Dua Lipa),2020-11-20,83,0.0103,0.781,0.67,0.0,0.0761,-3.912,0.0452,0.595,127.99,D♯/E♭,Minor,4,02:49
+130,Say So,Doja Cat,50,spotify:track:3Dv1eDb0MEgF93GpLXlucZ,True,Hot Pink,2019-11-07,84,0.256,0.787,0.673,3.57e-06,0.0904,-4.577,0.158,0.786,110.962,N/A,Minor,4,03:57
+131,Despacito,Luis Fonsi & Daddy Yankee Featuring Justin Bieber,120,spotify:track:6habFhsOp2NvshLv26DqMb,False,VIDA,2019-02-01,79,0.198,0.655,0.797,0.0,0.067,-4.787,0.153,0.839,177.928,D,Major,4,03:49
+132,Something Just Like This,The Chainsmokers & Coldplay,133,spotify:track:4PDGKd7D6IE2cfzoJX3eSs,False,Something Just Like This (Originally by The Chainsmokers and Coldplay) [Instrumental Version],2017-02-27,13,0.0279,0.526,0.421,0.962,0.114,-11.643,0.0251,0.402,104.017,N/A,Minor,4,04:03
+133,Yellow,Coldplay,134,spotify:track:3AJwUDP919kvQ9QcozQPxg,False,Parachutes,2000-07-10,85,0.00239,0.429,0.661,0.000121,0.234,-7.227,0.0281,0.285,173.372,N/A,Major,4,04:26
+134,Break My Heart,Dua Lipa,47,spotify:track:017PF4Q3l4DBUiWoXk4OWT,False,Future Nostalgia,2020-03-27,82,0.167,0.73,0.729,1.39e-06,0.349,-3.434,0.0883,0.467,113.013,E,Minor,4,03:41
+135,All Of Me,John Legend,97,spotify:track:3U4isOIWM3VvDubwSI3y7a,False,Love In The Future (Expanded Edition),2013-08-30,86,0.922,0.422,0.264,0.0,0.132,-7.064,0.0322,0.331,119.93,G♯/A♭,Major,4,04:29
+136,I Don't Care,Ed Sheeran & Justin Bieber,105,spotify:track:3HVWdVOQ0ZA45FuZGSfvns,False,I Don't Care (with Justin Bieber),2019-05-10,82,0.0912,0.798,0.675,0.0,0.0894,-5.041,0.0442,0.842,101.956,F♯/G♭,Major,4,03:39
+137,Breaking Me,Topic & A7S,21,spotify:track:3QQ7IfDIgLMEP0H0iFrAXG,False,Breaking Me (Original by Topic & A7S),2020-11-18,15,0.987,0.591,0.232,0.943,0.101,-17.573,0.0589,0.245,106.049,G♯/A♭,Minor,4,02:36
+138,No Role Modelz,J. Cole,139,spotify:track:62vpWI1CHwFy7tMIcSStl8,True,2014 Forest Hills Drive,2014-12-09,85,0.301,0.692,0.521,0.0,0.0565,-8.465,0.33,0.463,100.45,B,Minor,4,04:52
+139,Say You Won't Let Go,James Arthur,96,spotify:track:5uCax9HTNlzGybIStD3vDh,False,Back from the Edge,2016-10-28,85,0.695,0.358,0.557,0.0,0.0902,-7.398,0.059,0.494,85.043,B,Major,4,03:31
+140,At My Worst,Pink Sweat$ Featuring Kehlani,78,spotify:track:0ri0Han4IRJhzvERHOZTMr,False,The Prelude,2020-07-17,83,0.777,0.813,0.415,0.0,0.131,-5.926,0.0349,0.667,91.921,C,Major,4,02:50
+141,Adore You,Harry Styles,68,spotify:track:3jjujdWJ72nww5eGnfs2E7,False,Fine Line,2019-12-13,86,0.0237,0.676,0.771,7e-06,0.102,-3.675,0.0483,0.569,99.048,G♯/A♭,Major,4,03:27
+142,Go Crazy,Chris Brown & Young Thug,26,spotify:track:1Jz1yhcPm1Yt6aoed3zact,True,"Go Crazy (Remix) (feat. Young Thug, Future, Lil Durk & Mulatto)",2021-02-19,72,0.248,0.721,0.565,0.0,0.284,-9.157,0.28,0.597,93.8,C,Minor,4,03:47
+143,Lucid Dreams,Juice WRLD,103,spotify:track:285pBltuF7vW8TeWk8hdRR,True,Goodbye & Good Riddance,2018-12-10,86,0.349,0.511,0.566,0.0,0.34,-7.23,0.2,0.218,83.903,F♯/G♭,Minor,4,03:59
+144,Intentions,Justin Bieber Featuring Quavo,65,spotify:track:364dI1bYnvamSnBJ8JcNzN,False,Intentions,2020-02-07,78,0.317,0.811,0.553,0.0,0.105,-6.644,0.0552,0.86,148.014,A,Major,4,03:32
+145,Little Bit Of Love,Tom Grennan,146,spotify:track:2sX7lJXsOYGP1Us6CqM9t1,False,Little Bit of Love,2021-01-08,81,0.0833,0.689,0.706,0.0,0.105,-4.48,0.0312,0.623,106.52,C♯/D♭,Minor,4,03:46
+146,Mou Sukoshi Dake,YOASOBI,147,spotify:track:50ZNDEdtxnCch0iIYywWq2,False,Covers Vol. 12,2014-12-05,26,0.081,0.336,0.901,0.0,0.267,-3.536,0.124,0.356,196.414,G,Major,4,01:31
+147,Don't Stop Believin',Journey,148,spotify:track:4bHsxqR3GMrXTxEPLuK5ue,False,Escape,1981,81,0.127,0.5,0.748,0.0,0.447,-9.072,0.0363,0.514,118.852,E,Major,4,04:10
+148,Dior,Pop Smoke,61,spotify:track:79s5XnCN4TJKTVMSmOx8Ep,True,Meet The Woo,2019-07-26,84,0.212,0.548,0.805,0.000389,0.408,-5.732,0.351,0.648,142.094,G,Major,4,03:36
+149,Take Me To Church,Hozier,129,spotify:track:1CS7Sd1u5tWkstBhpssyjP,False,Hozier (Expanded Edition),2014-09-19,76,0.634,0.566,0.664,0.0,0.116,-5.303,0.0464,0.437,128.945,E,Minor,4,04:01
+150,Sicko Mode,Travis Scott,70,spotify:track:2xLMifQCjDGFmkHkpNLD9h,True,ASTROWORLD,2018-08-03,85,0.00513,0.834,0.73,0.0,0.124,-3.714,0.222,0.446,155.008,G♯/A♭,Major,4,05:12
+151,Kings & Queens,Ava Max,31,spotify:track:7a53HqqArd4b9NF4XAmlbI,False,Heaven & Hell,2020-09-18,84,0.00786,0.637,0.69,0.0,0.124,-4.057,0.0405,0.457,129.857,C♯/D♭,Minor,4,02:42
+152,Track Star,Mooski,107,spotify:track:5hChuUMe5iHfjkXgzj1D4b,True,Track Star,2021-02-09,81,0.381,0.641,0.598,0.0,0.0921,-5.7,0.324,0.285,131.459,G,Minor,5,03:19
+153,Kirari,Fujii Kaze,154,spotify:track:46UOLl4VYcYwAqsbJlYog5,False,minuscule,2011-09-13,50,0.888,0.772,0.144,2.28e-05,0.108,-16.438,0.0517,0.468,103.869,F,Major,3,02:40
+154,Hell Of A View,Eric Church,120,spotify:track:1kBx9VGumfuvlfqdlAGorE,False,Hell Of A View,2020-10-02,76,0.119,0.689,0.582,0.00464,0.101,-6.778,0.0236,0.883,99.021,F,Major,4,02:55
+155,Hotel California,Eagles,149,spotify:track:40riOy7x9W7GXjyGp4pjAv,False,Hotel California (2013 Remaster),1976-12-08,83,0.00574,0.579,0.508,0.000494,0.0575,-9.484,0.027,0.609,147.125,D,Major,4,06:31
+156,Dry Flower,Yuuri,48,spotify:track:1Dqo8RY50LMCvjjA3kOrNZ,False,I Know,2019-10-18,48,0.705,0.679,0.595,0.0,0.106,-4.374,0.03,0.438,120.09,C,Minor,4,03:03
+157,Girls Like Us,Zoe Wees,124,spotify:track:5SFXOMJJ334Wn2PwBHeRZN,False,Girls Like Us,2021-01-12,84,0.288,0.444,0.648,0.0,0.059,-4.955,0.0476,0.171,125.706,C♯/D♭,Major,5,03:09
+158,You,Regard x Troye Sivan x Tate McRae,113,spotify:track:5qNh5WtzMbfpSj2jLlBkoD,False,Your Power,2021-04-29,93,0.937,0.634,0.285,0.000359,0.232,-14.007,0.0807,0.203,129.65,A,Minor,4,04:05
+159,Life Is Good,Future Featuring Drake,39,spotify:track:5yY9lUy8nbvjM1Uyo1Uqoc,True,Life Is Good (feat. Drake),2020-01-10,83,0.0706,0.676,0.609,0.0,0.152,-5.831,0.481,0.508,142.037,D,Minor,4,03:57
+160,Counting Stars,OneRepublic,143,spotify:track:6sy3LkhNFjJWlaeSMNwQ62,False,Native,2014-01-01,75,0.0654,0.664,0.705,0.0,0.115,-4.972,0.0382,0.477,122.017,C♯/D♭,Minor,4,04:17
+161,The Box,Roddy Ricch,66,spotify:track:0nbXyq5TXYPCO7pr3N8S4I,True,Please Excuse Me For Being Antisocial,2019-12-06,86,0.104,0.896,0.586,0.0,0.79,-6.687,0.0559,0.642,116.971,B,Minor,4,03:16
+162,Take On Me,a-ha,162,spotify:track:2WfaOiMkCvy7F5fcp2zZ8L,False,Hunting High and Low,1985-06-01,85,0.018,0.573,0.902,0.00125,0.0928,-7.638,0.054,0.876,84.412,F♯/G♭,Minor,4,03:45
+163,Bichota,Karol G,7,spotify:track:7vrJn5hDSXRmdXoR30KgF1,True,BICHOTA,2020-10-23,86,0.212,0.863,0.666,0.000493,0.103,-4.158,0.152,0.838,163.908,C♯/D♭,Minor,4,02:58
+164,Willow,Taylor Swift,2,spotify:track:0lx2cLdOt3piJbcaXIV74f,False,evermore,2020-12-11,81,0.833,0.392,0.574,0.00179,0.145,-9.195,0.17,0.529,81.112,G,Major,4,03:34
+165,Shottas (Lala),Moneybagg Yo,54,spotify:track:2Ox2c1WEJDeQCHTXPE3YKM,True,A Gangsta’s Pain,2021-04-23,77,0.0681,0.925,0.463,0.0,0.101,-9.309,0.454,0.961,133.061,F♯/G♭,Minor,4,02:02
+166,Death Bed,Powfu Featuring beabadoobee,43,spotify:track:7eJMfftS33KTjuF7lTsMCx,False,death bed (coffee for your head),2020-02-08,87,0.731,0.726,0.431,0.0,0.696,-8.765,0.135,0.348,144.026,G♯/A♭,Minor,4,02:53
+167,Midnight Sky,Miley Cyrus,15,spotify:track:27ycaQnQAxaPiyeg3nr2aB,False,Midnight Sky,2020-08-14,79,0.00115,0.705,0.814,0.00312,0.203,-5.466,0.0346,0.259,110.0,E,Minor,4,03:43
+168,Thinking Out Loud,Ed Sheeran,103,spotify:track:34gCuhDGsG4bRPIf9bb02f,False,x (Deluxe Edition),2014-06-21,83,0.474,0.781,0.445,0.0,0.184,-6.061,0.0295,0.591,78.998,D,Major,4,04:41
+169,Thunderstruck,AC/DC,170,spotify:track:57bgtoPSgt236HzfBOd8kj,False,The Razors Edge,1990-09-24,83,0.000147,0.502,0.89,0.0117,0.217,-5.175,0.0364,0.259,133.52,E,Major,4,04:52
+170,Run,OneRepublic,171,spotify:track:2UbVnbE5FH6008mAm6Mmgw,False,Run,2021-05-05,82,0.326,0.682,0.72,0.0,0.148,-8.173,0.0381,0.673,117.003,N/A,Minor,4,02:49
+171,Highest In The Room,Travis Scott,83,spotify:track:3eekarcy7kvN4yt5ZFzltW,True,HIGHEST IN THE ROOM,2019-10-04,86,0.0546,0.598,0.427,5.83e-06,0.21,-8.764,0.0317,0.0605,76.469,G,Minor,4,02:55
+172,Wasted Love,Ofenbach Featuring Lagique,173,spotify:track:2pPO9YecZimmuVQfIzfV6U,False,Wasted Love (feat. Lagique),2021-01-08,87,0.0821,0.734,0.855,4.73e-06,0.0901,-4.578,0.135,0.54,121.955,F♯/G♭,Minor,4,02:19
+173,Popstar,DJ Khaled Featuring Drake,11,spotify:track:6EDO9iiTtwNv6waLwa1UUq,True,POPSTAR (feat. Drake),2020-07-17,84,0.057,0.8,0.56,0.0,0.134,-4.818,0.261,0.45,163.071,F,Minor,4,03:20
+174,Sweet Child O' Mine,Guns N' Roses,167,spotify:track:7snQQk1zcKl8gZ92AnueZW,False,Appetite For Destruction,1987-07-21,74,0.0901,0.446,0.952,0.0857,0.112,-5.321,0.0523,0.624,125.303,F♯/G♭,Major,4,05:56
+175,Headshot,"Lil Tjay, Polo G & Fivio Foreign",42,spotify:track:4eNOLmx8r2IJAVKvBBL1jv,True,Destined 2 Win,2021-04-02,85,0.0802,0.808,0.639,0.0,0.15,-7.266,0.279,0.395,118.0,C♯/D♭,Minor,4,02:24
+176,Smells Like Teen Spirit,Nirvana,167,spotify:track:5ghIJDpPoe3CfHMGu71E6T,False,Nevermind (Remastered),1991-09-26,77,2.55e-05,0.502,0.912,0.000173,0.106,-4.556,0.0564,0.72,116.761,C♯/D♭,Major,4,05:01
+177,Gangsta's Paradise,Coolio Featuring L.V.,178,spotify:track:6KQ8W7nFyG03TYoPoFsNmI,False,Greatest Hip Hop of the 90s: A Tribute,2011-12-09,4,0.351,0.429,0.376,0.0,0.129,-13.785,0.225,0.488,78.97,G♯/A♭,Major,4,04:01
+178,Starboy,The Weeknd Featuring Daft Punk,52,spotify:track:7MXVkk9YMctZqd1Srtv4MB,True,Starboy,2016-11-25,84,0.141,0.679,0.587,6.35e-06,0.137,-7.015,0.276,0.486,186.003,G,Major,4,03:50
+179,Ella No Es Tuya,Rochy Rd X Myke Towers X Nicki Nicole,39,spotify:track:5YYW3yRktprLRr47WK219Y,False,Ella No Es Tuya (Remix),2021-02-03,89,0.39,0.585,0.611,0.0,0.649,-4.132,0.288,0.962,97.041,F♯/G♭,Major,4,03:38
+180,Kaikai Kitan,Eve,111,spotify:track:6y4GYuZszeXNOXuBFsJlos,False,Kaikai Kitan / Ao No Waltz,2020-12-23,80,0.0119,0.584,0.911,0.0,0.119,-3.515,0.09,0.606,92.502,F,Minor,4,03:41
+181,Laugh Now Cry Later,Drake Featuring Lil Durk,5,spotify:track:2SAqBLGA283SUiwJ3xOUVI,True,Laugh Now Cry Later (feat. Lil Durk),2020-08-14,86,0.244,0.761,0.518,3.47e-05,0.107,-8.871,0.134,0.522,133.976,C,Major,4,04:21
+182,Lil Bit,Nelly & Florida Georgia Line,183,spotify:track:5aTJlx7jyjZg0qJMiQOiUu,False,Hit Academy Vol 8,2020-10-29,17,0.373,0.778,0.354,0.000193,0.338,-17.148,0.0395,0.567,119.998,E,Minor,4,03:13
+183,Wake Me Up!,Avicii,181,spotify:track:0nrRP2bk19rLc0orkWPQk2,False,True,2013-01-01,85,0.0038,0.532,0.783,0.0012,0.161,-5.697,0.0523,0.643,124.08,D,Major,4,04:07
+184,Everything I Wanted,Billie Eilish,82,spotify:track:3ZCTVFBt2Brf31RLEnCkWJ,False,everything i wanted,2019-11-13,85,0.902,0.704,0.225,0.657,0.106,-14.454,0.0994,0.243,120.006,F♯/G♭,Minor,4,04:05
+185,Another One Bites The Dust,Queen,159,spotify:track:57JVGBtBLCfHw2muk5416J,False,The Game (Deluxe Remastered Version),1980-06-27,75,0.112,0.933,0.528,0.329,0.163,-6.472,0.162,0.756,109.975,F,Minor,4,03:34
+186,Riptide,Vance Joy,187,spotify:track:3JvrhDOgAt6p7K8mDyZwRd,False,Dream Your Life Away (Special Edition),2014-09-09,79,0.431,0.484,0.731,0.0,0.151,-6.694,0.0379,0.51,101.654,C♯/D♭,Major,4,03:24
+187,Uptown Funk!,Mark Ronson Featuring Bruno Mars,188,spotify:track:32OlwWuMpZ6b0aN2RZOeMS,False,Uptown Special,2015-01-12,83,0.00801,0.856,0.609,8.15e-05,0.0344,-7.223,0.0824,0.928,114.988,C,Major,4,04:29
+188,Mr. Brightside,The Killers,178,spotify:track:7oK9VyNzrYvRFo7nQEYkWN,False,Hot Fuss,2004-06-15,76,0.00101,0.356,0.924,0.0,0.0953,-3.74,0.0808,0.232,148.017,C♯/D♭,Major,4,03:42
+189,Just The Way You Are,Bruno Mars,162,spotify:track:7BqBn9nzAq8spo5e7cZ0dJ,False,Doo-Wops & Hooligans,2010-10-05,82,0.0151,0.637,0.843,0.0,0.0876,-5.413,0.0432,0.434,109.012,F,Major,4,03:40
+190,I'm Yours,Jason Mraz,173,spotify:track:1EzrEOXmMH3G43AXT1y7pA,False,We Sing. We Dance. We Steal Things.,2008-05-12,82,0.595,0.686,0.457,0.0,0.105,-8.322,0.0468,0.718,150.953,N/A,Major,4,04:02
+191,Back In Black,AC/DC,191,spotify:track:08mG3Y1vljYA6bvDt4Wqkj,False,Back In Black,1980-07-25,84,0.011,0.31,0.7,0.00965,0.0828,-5.678,0.047,0.763,188.386,A,Major,4,04:15
+192,Odo,Ado,122,spotify:track:6huXEunO4jEFn9Q7WLoMZs,False,Back To Black (Deluxe Edition),2006,48,0.223,0.383,0.909,0.0,0.387,-1.412,0.111,0.721,146.169,B,Major,4,03:35
+193,2/Catorce,Rauw Alejandro X Mr. Naisgai,194,spotify:track:71R8HJxQk5qMiRstrlXN9t,True,2/Catorce,2021-02-14,86,0.675,0.54,0.455,1.08e-05,0.12,-5.988,0.224,0.432,83.876,D♯/E♭,Major,4,03:32
+194,Hecha Pa' Mi,Boza,43,spotify:track:3VvA1wSxukMLsvXoXtlwWx,False,Más Negro Que Rojo,2020-07-31,89,0.362,0.725,0.756,0.000685,0.103,-5.013,0.0572,0.828,100.07,E,Major,4,03:06
+195,Somebody That I Used To Know,Gotye Featuring Kimbra,141,spotify:track:4wCmqSrbyCgxEXROQE6vtV,False,Making Mirrors,2011-01-01,77,0.591,0.864,0.495,0.000133,0.0992,-7.036,0.037,0.72,129.062,C,Major,4,04:04
+196,Every Breath You Take,The Police,197,spotify:track:1JSTJqkT5qHq8MDJnJbRE1,False,Synchronicity (Remastered 2003),1983-06-17,84,0.543,0.82,0.452,0.00294,0.0714,-9.796,0.0348,0.74,117.401,C♯/D♭,Major,4,04:13
+197,Lonely,Justin Bieber & benny blanco,5,spotify:track:4fKiuIavbsoTRZ6R7xuAyT,True,Lonely (with benny blanco) [Main + Acoustic],2020-10-27,59,0.969,0.365,0.117,2.48e-06,0.684,-10.61,0.041,0.119,168.744,N/A,Minor,4,02:35
+198,Tennessee Whiskey,Chris Stapleton,179,spotify:track:3fqwjXwUGN6vbzIwvyFMhx,False,Traveller,2015-05-04,79,0.205,0.392,0.37,0.0096,0.0821,-10.888,0.0298,0.512,48.718,A,Major,4,04:53
+199,You're Mines Still,Yung Bleu Featuring Drake,67,spotify:track:3wJ1OyP3Fugmi8t41e1zQ6,True,Love Scars: The 5 Stages Of Emotions (Deluxe),2020-10-16,65,0.308,0.613,0.615,0.0,0.107,-4.859,0.107,0.342,86.782,F,Minor,4,03:46
