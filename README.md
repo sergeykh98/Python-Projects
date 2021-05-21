@@ -1,4 +1,4 @@
-# Python-Projects
+# Spotify-Projects
 Install dependencies
 `pip install spotipy` 
 `pip install plotly`
